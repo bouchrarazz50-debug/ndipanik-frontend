@@ -301,7 +301,7 @@ class _AutoSliderTireCardsState extends State<AutoSliderTireCards> {
     );
   }
 
-  // Widget عام لكل كرت
+  //  card Widget 
   Widget buildCard({
     required String image,
     required String title,
